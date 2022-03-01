@@ -1,7 +1,5 @@
-### Hallo 👋
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamschen23&layout=compact&theme=github_dark"></a>
-</div>
+### Hello 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamschen23&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
