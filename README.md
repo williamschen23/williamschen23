@@ -1,5 +1,5 @@
 ### Hello 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamschen23&theme=github_dark&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=williamschen23&theme=github_dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamschen23&theme=github_dark&count_private=true&hide=jupyter%20notebook)
 
 <!--
 
